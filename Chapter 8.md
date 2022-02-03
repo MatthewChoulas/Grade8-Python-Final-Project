@@ -1,0 +1,136 @@
+- 3.1 The Bill of Rights
+    - **Essential Question: **How does the U.S. Constitution protect individual liberties and rights, and what rights are protected
+    - 
+    - Critics of constitution wanted document to protect rights
+    - civil liberties↔personal freedoms protected from governmental interference or deprivation guaranteed by the constitution
+    - Liberties and the Constitution
+        - madison throught the structure of the constitution was enough to protect rights and a bill was unecessary
+        - he worried rights not included would be subject to government overreach
+        - eventually his opinion changed and he helped draft and ratify the bill of rights
+        - Protections in the bill of rights 
+            - bill of right protect freedoms such as speech religion property
+            - also included 9th amendment states that there are other protected rights and 10th amendment gives states authority over power not enumerated for the federal government
+            - Fear of a central government 
+                - individuals are protected from abuse of power from the federal government
+                - states don't have to follow the list of protections but most uphelp the bill of rights in their own state constitutions
+                - the supreme court has ruled on the bill of rights to balance individual rights with public safety
+    - A Culture of Civil Liberties
+        - americans have a lot of freedom and protected liberties
+        - civil liberties often clash with public interest, in many cases the public good is chosen over person freedoms
+        - Interpreting the Bill of Rights
+            - the court has interpreted civil liberties to protect them from encroachment by the government
+            - supreme court decisions define civil liberties by deciding when the bill of rights should be limited or if the federal government has gone too far
+            - 
+    - 
+    - 
+- 3.2 First Amendment Freedom of Religion
+    - **Essential Question: **To what extent does the Supreme Court's interpretation of freedom of religion reflect a commitment to individual liberty?
+    - 
+    - First Amendment:Church and State
+        - thomas jefferson called the "wall of seperation" between church and state
+        - freedom of religion
+            - madison and jeferson stopped state funded church and jefferson later coined the term seperation between church and state
+            - establishment clause↔prevents the government from making a national religion and more recently has meant that the government can not promote, sanction or support any religion
+            - free exercise clause↔prevents the government from stopping religious practices
+            - court ruled that its was constitutional for state to fund transportation to religious schools since it was taxpayer right not benefit to the school
+            - in landmark case engel v vitale the court outlawed prayer in public schools 
+            - Engel V. Vitale(1962)
+                - question: does allowing a state created, nondenominational prayer be voluntarily recited at school violate the establishment clause
+                - decision: yes for Engle 6:1
+                - facts: parents sued their local school board because the prayers were against their beliefs. they argued this violated the establishment clause because it was created and recited by the state at an institution where attendance is required by the state, vitale is chairman of school board
+                - reasoning: ruled that since the public school itself had created the prayer and used it when attendance was mandatory that the board made religion its business and therefore violated the establishment clause
+                - since engel: in later cases the supreme court has also ruled that student led prayer and ambiguous moments of silence for the purpose of prayer in public school also violate the establishment clause
+            - in supreme court case lemon v kurtzman the court created the lemon test to tell if a law violated the establishment clause
+            - in the case pensylvannia and rhode island were funding secular subjects being taught at religious school
+            - the court ruled that this created an "excessive entanglement with religion" between church and state
+            - Lemon test
+                - to avoid an excessive entangle the policy must:
+                1. have a secular purpose that doesn't endorses or disapprove of religion 
+                2. the effect must not help or hurt religion 
+                3. create a relationship that entangle religion and state
+            - Wisconsin v Yoder(1972)
+                - Question: Does a state's compulsory school law for children age 16 and younger violate the first amendment's free exercise clause for parents whose religious beliefs and customs dictate they keep their children out of school after certain age?
+                - decision: yes for Yoder, 7:0
+                - facts: Wisconsin law required parents to send children to school up to 16. amish parents where charged for not sending their children to school and appealed to the supreme court arguing their religion prevented them from sending their children to school at their age. they believed the free exercise clause entitled them to not send their children to school.
+                - reasoning: the court ruled that sending the children to school would conflict with their religious beliefs and values and that stopping schooling for a couple years wouldn't negatively impact the community or society as a whole. the free exercise clause overrode the states interest to promote education
+        - Contemporary First Amendment Issues
+            - almost all cases of goverment funding nonsecular education have been struct down
+            - court did approve of state vouchers for students not attending public school because they went to parents not school and didn't descriminate based on religion
+            - court has ruled to allow religious displays if they aren't solely religious or for a religious purpose, they have a historical meaning too
+            - 
+    - 
+    - 
+    - 
+- 3.3 First Amendment
+    - 
+    - **Essential Question: **To what extent does the Supreme Court's interpretation of freedom of speech reflect a commitment to individual liberty? 
+    - 
+    - supreme court has ruled on freedom of speech both protecting and limiting it
+    - Defining Protected Speech 
+        - government has to show competing interest to be allowed to justify violating free speech protection
+        - the founding fathers didn't like british censorship especially about critizing the government so they made sure to include freespeech first
+        - time place and manner regulations 
+            - court looks at whether government is regulating the content of what is being said or the time/place/manner
+            - during vietnam war many people burned their draft cards, congress passed a law to make this illegal
+            - the supreme court upheld this law saying the symbolic act of speech actually violated congresses right to raise an army
+            - the court did rule that man who wore clothing with offensive language against did have the right to do so
+            - time, place, and manner test:
+                1. the restriction must not be based on the context of the speech 
+                2. the restriction must serve a significant government interest
+                3. the law must be very specific so it doesn't unintentionally effect other areas
+                4. there must be other times/places/manners in which the idea can be expressed
+        - Symbolic Speech
+            - symbolic speech can not be used to defend otherwise illegal actions
+            - the court has protected symbolic speech in some cases such as states which prohibited the burning of flags
+        - Tinker V.Des Moines Independent community school district(1969)
+            - question: does a school ban on wearing arm bands violate the first amendment freedom of speech
+            - decision: yes, for tinker, 7:2
+            - Facts: students organized a protest where they would where black armbands to school protesting against the U.S. involvement in vietnam. the school didn't want a disruption to the learning environment and also believed that other students would find it disrespectful. the students were suspended until they would come to school without the armbands. They sued and the case was appealed up to the supreme court.
+            - Reasoning: The court ruled in favor of the students because they there was no disruption caused by their protest. the students right to protest overrode the administrations right to stop potential disorder. the schools decision failed the content neutral aspect of the time place and manner text since it targeted students because they were anti war.
+        - Obscenity
+            - the first amendment does not protect obscene speech and no national standard fully defines it
+            - in the 1950's-70s the court heard cases from people who had been convicted by obscenity laws and ruled that they were constitutionally permissible because obscenity is "utterly without redeeming social important"
+            - they established that speech is obscene when "the average person, applying contemporary community standards finds that it appeals to the prurient interest(lustful)"
+            - during the sexual revolution the court became more lenient and had hard time defining obscenity, overturned 31 convictions
+            - in miller v california the court upheld the obscene materials were not protected as free speech but that the standards should be decied by applying local community standards.
+            - miller test
+                - if the average person finds it obscene
+                - it depicts sexual conduct in an offensive way defined by state law
+                - it doesn't have any scientific, artistic, literary, etc. value
+        - Balancing National Security and Individual Freedoms
+            - the court rules on the bill of rights sometimes protecting freedoms and othertimes ruling that limitations can be justified to protect social order
+            - the first of these cases was Schenck v United States where they established free speech may be limited in wartimes
+            - Schenck v united states(1919)
+                - question: does the government prosecution and punishment for expressing opposition to the military draft during wartime violate the first amendment's free speech clause?
+                - decision: No, for united states, 9:0
+                - facts: an act during ww1 made it illegal to criticize the government and advocated for treason or disloyal behavior in the military. schenck printed anti draft pamphlets which dissuaded people from complying with the draft and was convicted. he appealed the verdict from the district court.
+                - Reasoning: the court drew a distinction between speech that was an opinion and speech that incited unlawful action. schenck went to prison and the court established the clear and present danger test to determine if speech shouldn't be protected. In other circumstances the speech would be legal but the court ruled that the context matters since during wartime it could have caused harm.
+                - since schenck: in brandenburg v ohio the court ruled that speech could only be punished if it was intended to incite or produce "iminent lawless action and is likely to do so"
+            - 
+    - 
+- 3.4 First Amendment Freedom of the Press
+    - **Essential Question: **To what extent does the Supreme Court's interpretation of freedom fo the press reflect a commitment to individual liberty?
+    - 
+    - Free Press in a Democracy 
+        - the press is important because it is able to expose the government
+        - the court doesn't make a distiction between free speech and press
+        - Libel and Breathing Space
+            - libel↔false statements in press which demages a persons reputation
+            - american courts typically have allowed for a high standard of defamation before ruling in favor of party suing for libel
+            - New YorkTimes Co. v Sullivan↔civil rights group including MLK wrote add in NYT with false info about montgomery commisioner sullivan. sullivan sued under libel and won 500k. NYT appealed that under free speech mistakes that unintentionally defamed someone shouldn't be illegal. the court ruled in favor of the press saying false statements because otherwise fear of libel would stifle debates and reporting
+            - people suing for libel must prove that the they were damaged and the offender printed the lie intentionally 
+            - public figures can't claim libel for statements about their conduct unless they can prove actual malice
+            - courts have continued to rule that people suing for libel must prove the writer had malicious intent
+        - Prior Restraint
+            - prior restraint↔right to stop speech or press in advance
+            - the government does not have privilege of prior restraint
+            - the government cannot suppress an idea because most people view it as offensive
+            - New York Times CO. V. United states(1971)
+                - Question: Can the executive branch block the printing of reporter-obtained classified government information in an effort to protect national secrets without violating the First Amendment free press clause?
+                - Decision:No, for New York Times, 6:3
+                - in previous case of Near v. Minnesota(1931) the supreme court ruled that a law preventing the printing of radical propaganda violated freedom of speech
+                - Facts: secret pentagon papers were leaked to NYT and told the true story of how the U.S. entered the vietnam war through governent deception. president nixon argued that it hindered the government ability to manage the war and sued NYT under national security. times appealed to the supreme court after after district court ruled against them. the supreme court ruled in favor of NYT saying that the cry of national security doesn't justify censhorship in advance. the court ruled that NYT had the right to publish the papers not that the wistle blower had the right to leak them
+                - Reasoning: there was no majority opinion, just a per curiam opinion without attribute to a particular justice. the court overuled the lower courts decision and prevented the executive branch from stopping the printing
+    - 
+    - 
+- 
